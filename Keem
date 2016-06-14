@@ -1,5 +1,6 @@
-<video width="320" height="240" autoplay loop>
+  Preload="auto"
+  <video width="320" height="240">
   <source src="Keem.mp4" type="video/mp4" />
-  <source src="movie.ogg" type="video/ogg" />
+  loop="loop"
   Your browser does not support the video tag.
 </video>
